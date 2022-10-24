@@ -42,11 +42,11 @@ in base al vostro sistema operativo:
 * [GNU/Linux](#linux)
 
 ### Windows
-Innanzitutto bisogna scaricare il compilatore, vi consigliamo questo [link](https://github.com/brechtsanders/winlibs_mingw/releases/download/12.2.0-14.0.6-10.0.0-ucrt-r2/winlibs-x86_64-posix-seh-gcc-12.2.0-mingw-w64ucrt-10.0.0-r2.zip).
-Estrate il file zip in una cartella a vostra scelta e per terminare l'installazione bisogna rendere accessibile
-il compilatore da ogni parte del vostro sistema. Navigate dentro le cartelle mingw64 -> bin e cercate il file
-*g++.exe*. Copiate il suo percorso e aggiungetelo alla variabile di sistema PATH. Aprite un nuovo terminale
-e ora scrivendo g++ dovrebbe essere disponibile il compilatore.
+Sul nostro canale youtube trovate un [video](https://youtu.be/UJJqdmyGGYA) che vi aiuterà a installare GCC su Windows.
+Il link per scaricare la cartella compressa è [questo](https://github.com/brechtsanders/winlibs_mingw/releases/download/12.2.0-14.0.6-10.0.0-ucrt-r2/winlibs-x86_64-posix-seh-gcc-12.2.0-mingw-w64ucrt-10.0.0-r2.zip).
+In alternativa potete installare WSL (Windows Subsystem for Linux) e avere a disposizione
+un sistema Linux all'interno di Windows, ma dovrete imparare
+ad usare la shell di Linux.
 
 ### MacOS
 Se avete installato XCode dovreste aver disponibile nel sistema clang e potete tranquillamente usarlo
