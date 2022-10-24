@@ -37,12 +37,12 @@ e usare. Ha una grafica molto vecchia e non offre particolari vantaggi,
 ma molto spesso è installato sui pc per le gare.
 
 ## XCode
-Disponibile solo su MacOs XCode è il programma consigliato da Apple per programmare.
+Disponibile solo su MacOs, XCode è il programma consigliato da Apple per programmare.
 Offre come vantaggio che una volta installato avrete disponibile anche il compilatore
 clang, non dovrete quindi preoccuparvi di installarne uno manualmente.
 
 ## DevC++
 Programma molto vecchio e datato solo per Windows, ha il vantaggio che
-insieme a lui è incluso un compilatore ed è molto facile usarlo.
+è incluso un compilatore ed è molto facile usarlo.
 Bisogna però tenere a mente che la versione del compilatore è molto vecchia,
 quindi alcune funzionalità recenti potrebbero non essere disponibili.
