@@ -47,7 +47,7 @@ Programma molto vecchio e datato solo per Windows, ha il vantaggio che
 Bisogna però tenere a mente che la versione del compilatore è molto vecchia,
 quindi alcune funzionalità recenti potrebbero non essere disponibili.
 
-Per attivare le funzionalit\'a di C++11 su DevC++ è necessario andare
+Per attivare le funzionalità di C++11 su DevC++ è necessario andare
 nel menu tools -> compiler options -> settings -> code generation e impostare
 la voce "Language standard" all'ultima versione disponibile (probabilmente ISO C++11).
 Se non trovare i menu [questo thread](https://stackoverflow.com/questions/64371274/how-to-enable-c11-or-c14-in-dev-c-ide) contiene delle immagini che potrebbero aiutarvi.
